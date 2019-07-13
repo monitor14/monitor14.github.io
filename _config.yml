@@ -1,13 +1,13 @@
 # Site settings
-title: 生命不止，折腾不息
+title: 不用怂，就是干。
 author: MonsterSlayer
 author_avatar: /images/header.jpg
-email: alias@domain.tld
-description: 生命不止，折腾不息 
-url: "https://dongyado.github.io"
+email: monitor14.cai@gmail.com
+description: 不用怂，就是干。
+url: "https://monitor14.github.io"
 #domain: "http://dongyado.com"
-github_username: dongyado
-github_site_repo: dongyado/dongyado.github.io
+github_username: monitor14
+github_site_repo: monitor14/monitor14.github.io
 disqus: monsterslayer
 
 
