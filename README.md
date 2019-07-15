@@ -1,11 +1,3 @@
-dongyado's blog
+My personal blog
 =====
-
-### 
-- notes of development
-- some thoughts.
-
-### 
-- Based on jekyll and github pages.
-
-If you like the theme of this blog, just use it.
+# Just write down my personal record , include  programmer ,linux, network and the thing which one i like it.
