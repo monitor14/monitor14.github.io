@@ -30,5 +30,5 @@ categories_path: categories/
 tags_path: tags/
 
 
-gems:
-  - jekyll-sitemap
+#gems:
+  #- jekyll-sitemap
